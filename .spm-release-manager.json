@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "sdk": "WindFoundation",
+  "version": "1.13.7",
+  "files": [
+    ".gitignore",
+    "Package.swift",
+    "README.md",
+    "Sources/WindFoundationPackage/Dependencies.swift"
+  ]
+}
